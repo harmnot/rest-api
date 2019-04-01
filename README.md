@@ -30,4 +30,4 @@ $ npm install
 $ npm start
 ```
 
-Access the API via `https://rhubarb-crumble-89035.herokuapp.com/api/users`
+Access the API via `https://strawberry-sundae-70043.herokuapp.com/api/users`
