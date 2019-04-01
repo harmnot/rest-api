@@ -5,5 +5,12 @@
     "database": "rest-api",
     "host": "127.0.0.1",
     "dialect": "postgres"
+  },
+  "production": {
+    "username": "fvylxoioqflsof",
+    "password": "46355f466ee594f0f17fe50ded2b9992896ae3c732845e9db3f9b1c28e8b6349",
+    "database": "d3cgusqcjf2ro6",
+    "host": "ec2-23-21-136-232.compute-1.amazonaws.com",
+    "dialect": "postgres"
   }
 }
